@@ -1,3 +1,4 @@
+#1
 #Number Guessing Game Binary Search Algorithm 
 def number_guessing_game():
     print("Think of a number between 1-100")
